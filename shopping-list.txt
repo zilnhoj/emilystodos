@@ -1,4 +1,3 @@
-apples
 oranges
 beetroot
 carrots
