@@ -1,4 +1,5 @@
 insure car
 Wash car
+buy scooter
 Sell car
 

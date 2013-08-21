@@ -1,6 +1,7 @@
 oranges
 strawberries
 beetroot
+kittens
 carrots
 kiwi
 monsters
