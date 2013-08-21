@@ -1,6 +1,5 @@
 apples
 oranges
 beetroot
-pears
 carrots
 kiwi
