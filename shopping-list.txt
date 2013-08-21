@@ -5,3 +5,6 @@ kiwi
 monsters
 oranges
 strawberries
+lemons
+onions
+potatoes
