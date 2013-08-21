@@ -8,3 +8,5 @@ strawberries
 lemons
 onions
 potatoes
+cat biscuits
+kitty litter
