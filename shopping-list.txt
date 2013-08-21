@@ -1,5 +1,7 @@
 apples
 oranges
+strawberries
 beetroot
 carrots
 kiwi
+monsters
